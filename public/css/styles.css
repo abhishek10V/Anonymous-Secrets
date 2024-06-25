@@ -1,0 +1,30 @@
+
+body {
+    background-color: #E8ECEF;
+    
+  }
+
+#home {
+    background-image: url("https://transparenttextures.com/patterns/argyle.png");
+  }
+  
+  .centered {
+      padding-top: 200px;
+      text-align: center;
+  }
+  
+  .secret-text {
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+  }
+
+footer > p {
+  text-align: center;
+}
+
+#Navbar {
+  background-color: #000;
+
+}
